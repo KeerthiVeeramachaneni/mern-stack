@@ -1,0 +1,49 @@
+/*span{
+    color:aqua;
+}
+    for span tag*/
+
+/* links*/    
+/*a:link{
+    color:red;
+    background-color: aquamarine;
+}
+
+a:visited{
+    color:blue;
+    font-size: 30px;
+}
+
+a:hover{
+    color:beige;
+    background-color: red;
+}
+
+a:active{
+    color:green;
+    background-color: yellow;
+}*/
+
+
+/*lists*/
+/*
+ul{
+    background-color: orange;
+    width: 500px;
+}
+
+ul li{
+    padding:30px;
+    font-size: 20px;
+    background-color: pink;
+    width: 300px;
+    /*to get markers(.) inside bg color*/
+    /*list-style-position:inside;
+}
+*/
+
+/*to get list items in single line*/
+ul{
+    padding: 0%;
+    margin: 0%;
+}

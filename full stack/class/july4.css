@@ -1,0 +1,47 @@
+/* display property 
+p{
+    display:inline;
+}
+
+a{
+    display:block;
+}
+    */
+/*to show diff between 3 display property*/
+/*.a{
+    display: inline;
+    width: 300px;
+    height: 300px;
+}
+
+.b{
+    display: block;
+    width: 300px;
+    height: 300px;
+}
+
+.c{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+}*/
+
+/*anchor tag decoration*/
+/*a{
+    text-decoration: none;
+}*/
+
+/*float property*/
+/*
+img{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+ul{
+    margin-left: 100px;
+}
+li{
+    margin-left: 200px;
+}
+    */

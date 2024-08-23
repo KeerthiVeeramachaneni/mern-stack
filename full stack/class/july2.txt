@@ -1,0 +1,82 @@
+<html>
+    <head>
+    </head>
+    <body>
+
+        <p style="color:red;">Some text</p>
+        <p style="color:green;">Some text</p>
+        <p>Some text</p>
+
+
+     
+    </body>
+
+
+</html>
+
+
+
+
+
+<html>
+    <head>
+        <link rel="stylesheet" href="xceediq.css">
+    </head>
+    <body>
+
+       <p>Some text</p>
+
+
+     
+    </body>
+
+
+</html>
+
+
+
+h2{
+    border-style:outset;
+    border-color:red;
+    border-width:5px;
+    color:blue;
+}
+
+
+h2{
+    border:2px solid blue;
+    color:blue;
+}
+
+
+
+h2{
+    border-style:dotted;
+    border-width:2px 5px 4px 7px;
+    color:blue;
+    background-color: bisque;
+}
+body{
+    background-color: green;
+    background-image:url('C:\\Users\\dharn\\Downloads\\user.png');
+    background-size:200px 200px;
+    background-repeat:no-repeat;
+    background-position:top right;
+}
+
+
+p{
+    font-size:30px;
+    font-family:Helvetica;
+    font-weight: bold;
+    font-style:italic;
+}
+
+
+
+p{
+    font-size:30px;
+    font-family:Helvetica;
+    /*font-weight: bold;*/
+    font-style:oblique;
+}

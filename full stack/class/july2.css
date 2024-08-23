@@ -1,0 +1,113 @@
+/*giving colour to seperate elements in html page
+h2{
+    color:bisque;
+}*/
+
+/*h2,p
+{
+    color:aqua;
+}*/
+
+
+/*same colour to all elements in the page
+*{
+    color: aqua;
+}*/
+
+
+/*border style*/
+
+/*h2{
+    border-style:solid;
+    border-style:dotted;
+    border-style:dashed;
+    border-style:double;
+    border-style:groove;
+    border-style:ridge;
+    border-style:inset;
+    border-style:outset;
+    background-color: aqua;
+}*/
+
+/*h2{
+    border-style:solid;
+    border-width:100px;
+    border-color:blue;
+    color:brown;
+}*/
+
+/*short handed property -to write all 3 into 1 line(wid,sty,col)
+p{
+    border:30px dashed green;
+    color:red;
+}*/
+
+/*to give diff border on each side*/
+/*h2{
+    /*border-style:solid dotted dashed double;--4 given(Top,ri,Bo,Left)*/
+    /*border-style:solid dotted dashed;--3 given(Top,Left,ri,bo)*/
+    /*border-style:solid dotted;--2 given(bo,to,le,ri)*/
+    /*border-style:solid;
+    color:chartreuse;
+    border-width:2px 5px 4px 10px;*/
+ /*}*/
+
+/*BACKGROUND--written inside body and also one line(29)*/
+/*body{
+    /*to give color as bg
+    background-color: lawngreen;*/
+    /*to give image as bg and size it wid,hei
+    background-image: url("rgb.png");
+    background-size:100px 100px;*/
+    /*to stop repetition of img
+    background-repeat: no-repeat;*/
+    /*to give position to backgroun
+    background-position: center;*/
+    /*background-position: bottom right;
+    background-position: bottom left;
+    background-position: top right;
+    background-position: top left;*/     
+
+/*}*/
+
+
+
+/*FONT*/
+/*p{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-style: italic;
+}*/
+
+/*MARGIN--giving space between page and element*/
+/*h2{
+    margin-top: 20px;
+    /*margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin: 10px 20px 30px 40px;--all in one*/
+/*}*/
+
+
+/*PADDING- gives space between text and border*/
+
+/*h2{
+    border-style:solid;
+    color:chartreuse;
+    border-width:2px 5px 4px 10px;
+ }
+
+
+
+h2{
+    padding-left: 20px;
+    /*padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding: 10px 20px 30px 40px;*/
+/*}*/
+
+
+

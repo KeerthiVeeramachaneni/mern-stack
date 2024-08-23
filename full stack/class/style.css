@@ -1,0 +1,18 @@
+*{
+    margin:0px auto;
+}
+
+html,body{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: lightgray;
+}
+
+.container{
+    width: 992px;
+    background-color: #fff;
+    padding: 10px 20px;
+}

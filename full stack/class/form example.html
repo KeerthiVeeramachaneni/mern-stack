@@ -1,0 +1,84 @@
+<html>
+    <table border="1" bgcolor="orange" cellspacing="0">
+        <tr>
+            <td>Name</td>
+            <td>
+                <input type="text"/>
+            </td>
+        </tr>
+        <tr>
+            <td>Email:</td>
+            <td>
+                <input type="text"/>
+            </td>
+        </tr>
+        <tr>
+            <td>Password:</td>
+            <td>
+                <input type="password"/>
+            </td>
+        </tr>
+        <tr>
+            <td>Approval required<br>Click on the button or text to select</td>
+            <td>
+               <input type="checkbox" value="Do you approve?"/>Do you approve?
+            </td>
+        </tr>
+        <tr>
+            <td>Pick Your Favorite:<br>Click on the button or text to select</td>
+            <td>
+                Choice A:<input type="radio" name="Favorite"/>
+               <br>
+               Choice B:<input type="radio" name="Favorite"/>
+               <br>
+               Choice C:<input type="radio" name="Favorite"/>
+            </td>
+        </tr>
+            <tr>
+                <td>Pop up Menu</td>
+                <td>
+                    <select name="menu">
+                        <option>Colorado..CO</option>
+                        <option>Connecticut</option>
+                        <option>Texas..tx</option>
+                        <option>Dalfornia...DA</option>
+                        <option>Dolorado..DO</option>
+                    </select>
+                </td>
+            </tr>
+                <tr>
+                    <td>List <br>Setup options:
+                        <ul>
+                            <li>Number of rows to display</li>
+                            <li>Allow multi-select</li>
+                        </ul> 
+                    </td>
+                    <td>
+                        <select multiple>
+                            <option>Texas..tx</option>
+                            <option>Colorado..CO</option>
+                            <option>Connecticut</option>
+                            <option>Dalfornia...DA</option>
+                            <option>Dolorado..DO</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Field ignored by KM</td>
+                    <td>
+                        <input type="text" name="name"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Text area</td>
+                        <td>
+                            <input type="text area" name="address"/>
+                        </td>
+                </tr>
+    </table>
+    <br>
+    <input type="submit" value="Save"/>
+    <input type="button" value="Cancel"/>
+    <input type="reset" value="Resize"/>
+</html>
